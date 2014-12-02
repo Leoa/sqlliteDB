@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SqlliteDatabase</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_sqlite_helper">MySQLiteHelper</string>
+    <string name="title_activity_positions">Positions</string>
+    <string name="title_activity_positions_data_source">PositionsDataSource</string>
+
+</resources>
